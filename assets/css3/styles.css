@@ -1,0 +1,18 @@
+.navbar-header {
+	border: solid;
+	background-color: XXXX;
+}
+
+.navbar-brand {
+	color: white;
+}
+
+.page-header {
+	color: teal;
+}
+
+
+.panel-default {
+	width: 80%;
+
+}
